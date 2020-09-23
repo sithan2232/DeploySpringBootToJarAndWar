@@ -22,4 +22,4 @@ Remind myself
 
 รูป
 
-6.จะได้ file ทั้งหมดอยู่ใน target (เสริมเราสามารถ copy file application.properties ออกมาจาก src>main>resources เอามาวางไว้ข้างๆ file jar,war เพื่อเขียนค่า config เเก้ทับลงfile application.properties อันเก่าได้)
+6.จะได้ file ทั้งหมดอยู่ใน target (เสริมเราสามารถ copy file application.properties ออกมาจาก src>main>resources เอามาวางไว้ข้างๆ file jar,war เพื่อเขียนค่า config เเก้ทับลงfile application.properties อันเก่าในโค้ดได้)
